@@ -17,10 +17,10 @@
 1.Python.
 2.JSON.
 3.MY SQL.
-#4.OS.
-#5.Pandas Library.
-#6.Streamlit.
-#7.Plotly Library.
+4.OS.
+5.Pandas Library.
+6.Streamlit.
+7.Plotly Library.
 8.image Library.
 
 Approach:
